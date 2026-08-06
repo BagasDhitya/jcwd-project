@@ -1,1 +1,1 @@
-console.log("index repositories")
+console.log("index repositories");
