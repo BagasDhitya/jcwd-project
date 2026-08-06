@@ -1,1 +1,1 @@
-console.log("tugas repo");
+console.log("tugas repo day 2");
