@@ -34,7 +34,7 @@ const accountBalance: number = 25000
 const coffePrice: number = 30000
 
 if(accountBalance >= coffePrice){
-    console.log("Transaction successful! Enjoy your coffe")
+    console.log("Transaction successful! Enjoy your coffee")
 } else {
     console.log("Transaction failed: Insufficient balance")
 }
